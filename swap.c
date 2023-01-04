@@ -1,3 +1,6 @@
+/*this is a demo*/
+
+
 #include<stdio.h>
 void main()
 {
